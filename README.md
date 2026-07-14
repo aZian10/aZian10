@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Elian 👋
 
-<!--
-**aZian10/aZian10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend developer from Colombia, interested in building modern and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Git & GitHub
+- Supabase
+
+## 🌱 Currently learning
+
+- Next.js
+- GitHub Actions
+- System Design
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on:
+
+- Personal Portfolio *(coming soon)*
+- Altea
+- More projects on my repositories
+
+## 📫 Connect with me
+
+- LinkedIn: *Add your profile here*
+- Email: *Optional*
+
+---
+
+Thanks for visiting my profile!
